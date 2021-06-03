@@ -2,7 +2,7 @@
 <img  src="https://ecole-alternance.cesi.fr/wp-content/themes/cesi/static/logo/ecole-alternance.svg">
 <img  src="https://secrethub.io/img/travis-ci.svg" width="35%">
 
-# Rils Deploy With TravisCI & Unit Test
+# RILS 2020 - Deployment With GitHub & TravisCI 
 
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)]() [![Build](https://travis-ci.com/BoisselNicolas/Rils-deploy.svg?token=4kAo6qsZ5hqAksyhZUQD&branch=main)]()
 
