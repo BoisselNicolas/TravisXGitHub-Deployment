@@ -1,9 +1,9 @@
 <img src="https://ecole-alternance.cesi.fr/wp-content/themes/cesi/static/logo/ecole-alternance.svg">
+<img src="https://secrethub.io/img/travis-ci.svg">
 
 # Rils Deploy With TravisCI & Unit Test
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)]()
 [![GPLv3 License](https://travis-ci.com/BoisselNicolas/Rils-deploy.svg?token=4kAo6qsZ5hqAksyhZUQD&branch=main)]()
-
 
 
 ## Usage
