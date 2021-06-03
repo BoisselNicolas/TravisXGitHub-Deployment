@@ -1,11 +1,8 @@
 <img src="https://ecole-alternance.cesi.fr/wp-content/themes/cesi/static/logo/ecole-alternance.svg">
 
 # Rils Deploy With TravisCI & Unit Test
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)]()
-
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)]()
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)]()
+[![GPLv3 License](https://travis-ci.com/BoisselNicolas/Rils-deploy.svg?token=4kAo6qsZ5hqAksyhZUQD&branch=main)]()
 
 
 
@@ -27,7 +24,7 @@ Etape 2 : Créer un fichier .travis.yml Afin de dire à Travis ce qu'il doit éf
         - Faire un commit du fichier .travis.yml
         - Faire un push 
 
-TravisCI détecte et lance le build de notre application
+TravisCI dtecte et lance le build de notre application
 
 ## Auteurs
 
