@@ -78,7 +78,7 @@ public class AppTest
     @Test
     public void racine_OfFour_ReturnsTwo() {
       // Arrange
-      final int expected = 3;
+      final int expected = 2;
   
       // Act
       final int actual = App.racine(4);
