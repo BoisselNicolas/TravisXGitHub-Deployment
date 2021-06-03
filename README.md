@@ -21,6 +21,7 @@ Etape 1 : Connecter GitHub et TravisCI
 Le lien entre GitHub et Travis est éfféctué mais ils ne sont pas encore synchronisé
 
 Etape 2 : Créer un fichier .travis.yml Afin de dire à Travis ce qu'il doit éfféctuer 
+
         - https://docs.travis-ci.com/user/languages 
         - Ecrire son fichier en fonction du language utilisé
 
