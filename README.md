@@ -24,6 +24,10 @@ Etape 2 : Créer un fichier .travis.yml Afin de dire à Travis ce qu'il doit éf
 
         - https://docs.travis-ci.com/user/languages 
         - Ecrire son fichier en fonction du language utilisé
+        - Faire un commit du chier .travis.yml
+        - Faire un push 
+
+TravisCI detecte et lance le build de notre application
 
 ## Auteurs
 
