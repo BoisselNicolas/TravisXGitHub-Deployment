@@ -33,5 +33,8 @@ TravisCI détecte et lance le build de notre application
 ## Auteurs
 
   
-
 * **BOISSEL Nicolas**
+
+## Merci pour la syntaxe des test unitaire en java
+
+* **@YTBeater**
